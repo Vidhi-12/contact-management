@@ -1,0 +1,27 @@
+{
+  "name": "contact-management",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vidhi-12/contact-management.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vidhi-12/contact-management/issues"
+  },
+  "homepage": "https://github.com/Vidhi-12/contact-management#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "gitignore": "^0.7.0",
+    "mongoose": "^7.0.0",
+    "nodemon": "^2.0.20"
+  }
+}
